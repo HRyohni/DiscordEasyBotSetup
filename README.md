@@ -1,3 +1,4 @@
+
 # Easy Setup Your Own Discord Bot!
 
 ### easy create your discord bot on your own server 
@@ -31,6 +32,8 @@
 
 ## Step 3 Start Coding
 - Download **Index.js**
+- Get your **Discord Token** on [**Discord developer portal**](https://discord.com/developers/applications) and put it inside **index.js** in **client.login(''TOKEN")**
+![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955161691715407882/unknown.png)
 - you can Start Coding
 - after you are happy with your code save and type in cmd ->  **node   .** to run **bot**
 # How to setup bot on server using replit
