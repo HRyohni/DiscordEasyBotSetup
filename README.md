@@ -23,6 +23,6 @@
 - type in cmd **npm init**
 - fill the following info
 	>**tip:** press enter to skip
-	![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955104915884212274/unknown.png)
+	>![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955104915884212274/unknown.png)
 - type: **npm install discord.js** in cmd
 ## Step 3 Start Coding
