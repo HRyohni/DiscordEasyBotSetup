@@ -32,7 +32,7 @@
 ## Step 3 Start Coding
 - Download **Index.js**
 - you can Start Coding
-- after you are happy with your code save and type in cmd ->  **node   .**
+- after you are happy with your code save and type in cmd ->  **node   .** to run **bot**
 # How to setup bot on server using replit
 ## Step 1 Replit
 - login in to [**Replit**](https://replit.com/)
