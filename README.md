@@ -34,6 +34,7 @@
 - you can Start Coding
 - after you are happy with your code save and type in cmd ->  **node   .** to run **bot**
 # How to setup bot on server using replit
+this allows you to run server online not localy anymore
 ## Step 1 Replit
 - login in to [**Replit**](https://replit.com/)
 - create **repl**
