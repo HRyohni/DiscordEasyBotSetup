@@ -27,5 +27,5 @@
 - type: **npm install discord.js** in cmd
 ## Step 3 Start Coding
 - Download **Index.js**
-- you can Start Coding
+- you can Start Coding in **inex.js**
 - after you are happy with your code save and type in cmd ->  **node   .**
