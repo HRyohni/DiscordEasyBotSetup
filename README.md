@@ -1,6 +1,6 @@
 # Easy Setup Your Own Discord Bot!
 
-### easy create your discord bot on your own server 
+### Easy create your discord bot on your own server 
 
 ## Requirements
 - install Node.js [**Node.js**](https://nodejs.org/en/)
