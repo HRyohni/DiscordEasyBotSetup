@@ -110,4 +110,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('OTUzOTU2NTQzNjY0MTExNjM2.YjMHQw.sCrI0OxhQBZpPuGEGdAPxPWgS-c');
+client.login('YOUR TOKEN');
