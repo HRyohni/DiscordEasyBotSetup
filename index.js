@@ -28,20 +28,6 @@ client.on('message', msg => {
         case 'admin':
             msg.channel.send("Admin of server is: Tag"); //sends msg who is admin
             break;
-        case 'coinflip': // head or tails
-            function doRandHT() {
-                var rand = ['HEADS!', 'TAILS!'];
-
-                return rand[Math.floor(Math.random() * rand.length)];
-            }
-
-            const embed = {
-                "title": `Here is the winner!`,
-                "description": doRandHT(),
-                "color": 7584788,
-            };
-            message.channel.send({ embed });
-            break;
 
         case 'fuckoff': // just fuck off
             msg.channel.send("No fuck you!");
