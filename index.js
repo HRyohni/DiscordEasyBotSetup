@@ -7,9 +7,9 @@ const embed = new Discord.MessageEmbed()
     .setColor(0x2BFE72)
     .setTitle("Commands")
     .addField("+help", "Shows all commands")
-    .addField("+help", "Clears messeges +clear [amount of msg] ")
-    .addField("+coinflip", "Plays CoinFlip ")
-    .addField("+admin", "Says who is admin ");
+    .addField("+admin", "Shows who is king")
+    .addField("+fuckoff", "fuckoff")
+    .addField("+clear", "deletes messages +clear [amount]");
 
 
 client.once('ready', () => { // will start when bot is launched
