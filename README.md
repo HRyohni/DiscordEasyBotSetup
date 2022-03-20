@@ -26,6 +26,7 @@
 	![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955104915884212274/unknown.png)
 - type: **npm install discord.js** in cmd
 - create file **index.js**
+
 ![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955109143562317844/unknown.png)
 
 ## Step 3 Start Coding
