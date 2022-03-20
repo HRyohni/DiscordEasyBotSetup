@@ -15,7 +15,7 @@
 - Go under **Bot** tab and create bot
 - **OAuth -> Url Generator ->bot ->Administrator *(give premmision)***
 ![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955101259931717632/unknown.png)
-- copy link and **invite bot** to your server *(by pasting ling in browser)*
+- copy link and **invite bot** to your server *(by pasting link in browser)*
 ## Step 2 Start Coding
 - **Create Discord Bot file**
 - **open cmd** inside file by typing **cmd** in **directory path**
