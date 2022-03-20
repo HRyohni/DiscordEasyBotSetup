@@ -45,3 +45,4 @@
 - go to [**UptimeRobot**](https://uptimerobot.com/) and register.
 - Create runtime on your **Replit Link**
 ![enter image description here](https://cdn.discordapp.com/attachments/890540929742688296/955159770489303090/unknown.png)
+# And you are all set up!
